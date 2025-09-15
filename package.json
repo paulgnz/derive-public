@@ -1,0 +1,16 @@
+{
+  "name": "derive-public-key",
+  "version": "1.0.0",
+  "description": "Script to derive public key from private key using WharfKit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@wharfkit/session": "^0.1.0"
+  },
+  "keywords": ["wharfkit", "eosio", "private-key", "public-key"],
+  "author": "",
+  "license": "MIT"
+}
