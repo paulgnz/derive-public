@@ -1,11 +1,11 @@
-# Private Key to Public Key Converter
+# XPR Network Private Key to Public Key Converter
 
-A simple tool that converts private keys to public keys. Perfect for beginners who have never run a script before!
+A simple tool that converts XPR Network private keys to public keys. Perfect for beginners who have never run a script before!
 
 ## 🚀 For Complete Beginners
 
 ### What This Does
-This tool takes your private key (like `PVT_K1_...`) and converts it to a public key (like `PUB_K1_...`). It's completely safe and runs on your own computer.
+This tool takes your XPR Network private key (like `PVT_K1_...`) and converts it to a public key (like `PUB_K1_...`). It's completely safe and runs on your own computer.
 
 ### What You Need
 - A computer (Windows or Mac)
@@ -59,9 +59,9 @@ This tool takes your private key (like `PVT_K1_...`) and converts it to a public
 
 ### Step 4: Use the Tool
 
-1. When prompted, type or paste your private key
+1. When prompted, type or paste your XPR Network private key
 2. Press Enter
-3. Your public key will appear!
+3. Your XPR Network public key will appear!
 4. Type "exit" to quit
 
 ---
@@ -141,7 +141,7 @@ console.log("Public Key: ", publicKey.toString())
 
 ## Security Note
 
-⚠️ **Never share your private keys with anyone!** This tool runs on your own computer and doesn't send your keys anywhere.
+⚠️ **Never share your XPR Network private keys with anyone!** This tool runs on your own computer and doesn't send your keys anywhere.
 
 ## Need Help?
 
